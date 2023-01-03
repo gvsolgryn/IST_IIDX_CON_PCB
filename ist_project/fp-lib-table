@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SparkFun")(type "KiCad")(uri "${KIPRJMOD}/footprint/SparkFun.pretty")(options "")(descr ""))
+)

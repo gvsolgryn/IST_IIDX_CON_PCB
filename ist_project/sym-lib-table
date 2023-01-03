@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "SparkFun-Aesthetics")(type "Legacy")(uri "${KIPRJMOD}/library/SparkFun/SparkFun-Aesthetics.lib")(options "")(descr ""))
+  (lib (name "SparkFun-Boards")(type "Legacy")(uri "${KIPRJMOD}/library/SparkFun/SparkFun-Boards.lib")(options "")(descr ""))
+)
