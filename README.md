@@ -12,4 +12,4 @@ ist 몰에서 만든 iidx 컨트롤러 PCB 딜레이가 너무 심해서 우리 
 ## 악! PCB Gerber을 이용하여 PCB를 출력하고싶어 해병님!!
 1. https://jlcpcb.com/ 에 방문한다
 2. gerber.zip 을 Add Gerber File 에 드래그 엔 드롭 한다
-3. 
+3. 결제한다!
